@@ -1,0 +1,6 @@
+export const book = 
+{   "title": "Me and Minions",
+    "author": "Oleksandra Vasylieva",
+    "year": "2050",
+    "genre": "nowell"
+}
